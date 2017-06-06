@@ -1,0 +1,10 @@
+{
+  "code": 0, 
+  "message": "success", 
+  "result": {
+    "id": 37, 
+    "token": "eyJhbGciOiJIUzI1NiIsImlhdCI6MTQ5NjcyODk0MSwiZXhwIjoxNDk2Nzg4OTQxfQ.eyJpZCI6Mzd9.YrAOueBTCCM9IM-aexqYRP9L7OyBdaFxGvitedvU3nQ", 
+    "user_type": 1, 
+    "username": "eBoxTest"
+  }
+}

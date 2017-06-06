@@ -1,0 +1,31 @@
+{
+  "code": 0, 
+  "message": "success", 
+  "result": [
+    {
+      "box": 1875.0, 
+      "release_date": "2017.05.19", 
+      "session_rate": 0.0007819158502161996
+    }, 
+    {
+      "box": 1978531.0, 
+      "release_date": "2017.05.20", 
+      "session_rate": 3.365851792340947
+    }, 
+    {
+      "box": 2224902.0, 
+      "release_date": "2017.05.21", 
+      "session_rate": 3.5765145138836254
+    }, 
+    {
+      "box": 678.0, 
+      "release_date": "2017.05.22", 
+      "session_rate": 0.06100397623039315
+    }, 
+    {
+      "box": 4000.0, 
+      "release_date": "2017.05.23", 
+      "session_rate": 0.00997289186665337
+    }
+  ]
+}
